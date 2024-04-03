@@ -2,4 +2,6 @@
 <br>
 <br>
 <h2> Esse foi um projeto que eu aprendi em aula no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+<br>
+<img src="https://github.com/withouteffect/Easy-Shopping/blob/master/assets/Easy%20Shopping%20-%20Mobile.png?raw=true"/>
 <img src="https://github.com/withouteffect/Easy-Shopping/blob/master/assets/Easy%20Shopping%20-%20Web.png?raw=true"/>
