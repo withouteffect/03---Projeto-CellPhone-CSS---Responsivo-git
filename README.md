@@ -1,7 +1,7 @@
 <h1> Easy Shopping </h1>
 <br>
 <br>
-<h2> Esse foi um projeto desenvolvido em aula no <a href="https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+<h2> Esse foi um projeto desenvolvido em aula no <a href="https://rodolfomori.com.br/devclub" target=”_blank” >DevClub</a> </h2>
 <br>
 <h2> Tecnologias ultilizadas</h2>
 <br>
